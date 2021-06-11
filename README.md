@@ -1,2 +1,2 @@
 # hello-world.py
-python hello world for MSIS
+Hello world git hub page in python for MSIS immersion lessons 6/10/21
